@@ -1,5 +1,6 @@
 package com.trybe.acc.java.sistemadevotacao;
 
+/**  * Pessoa. */
 public class Pessoa {
   private String nome;
 

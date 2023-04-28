@@ -1,9 +1,12 @@
 package com.trybe.acc.java.sistemadevotacao;
 
+/**  * PessoaCandidata. */
+
 public class PessoaCandidata extends Pessoa {
   private int numero;
   private int votos;
 
+  /**  * PessoaCandidata. */
   public PessoaCandidata(String nome, int numero) {
     super(nome);
     this.numero = numero;
